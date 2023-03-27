@@ -1,0 +1,5 @@
+com\dba\demo\model\Promocion.class
+com\dba\demo\repository\PromocionRepository.class
+com\dba\demo\ApiMongodbFullApplication.class
+com\dba\demo\controller\PromocionController.class
+com\dba\demo\service\PromocionService.class
